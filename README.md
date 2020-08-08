@@ -2,13 +2,13 @@
 
 I stole Dave2D's color scheme, and turned it into a color scheme. (I did have to add and modify some colors.)
 
-Screenshot:
+## Screenshot:
 
 ![Screenshot](https://i.imgur.com/X1GQyM3.png)
 
-Installation:
+## Installation:
 
-HACS:
+### HACS:
 
 Go to (hacs.xyz)[https://hacs.xyz] to get HACS (Home Assistant Community Store) if you don't have it already.
 
