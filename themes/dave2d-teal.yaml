@@ -12,7 +12,7 @@ Dave2D Teal:
   # Text
   primary-text-color: "#494440"
   secondary-text-color: "#494440"
-  text-primary-color: "#FFFFFF"
+  text-primary-color: "#969593"
   disabled-text-color: "#717171"
   # Sidebar Menu
   sidebar-icon-color: var(--app-header-text-color)
@@ -23,10 +23,10 @@ Dave2D Teal:
   sidebar-selected-text-color: var(--sidebar-selected-icon-color))
   # States and Badges
   state-icon-color: "#ADB2B8"
-  state-icon-active-color: "#5F9BEA"
+  state-icon-active-color: "#1cacbb"
   state-icon-unavailable-color: var(--disabled-text-color)
   # Sliders
-  paper-slider-knob-color: "#5F9BEA"
+  paper-slider-knob-color: "#1cacbb"
   paper-slider-knob-start-color: var(--paper-slider-knob-color)
   paper-slider-pin-color: var(--paper-slider-knob-color)
   paper-slider-active-color: var(--paper-slider-knob-color)
@@ -39,8 +39,8 @@ Dave2D Teal:
   label-badge-blue: "#2980b9"
   label-badge-yellow: "#f1c40f"
   label-badge-gray: "#969593"
+  validate-result: "#196f3d"
   success-color: "#196f3d"
-
   # Cards
   card-background-color: "#1cacbb"
   ha-card-border-radius: "10px"
@@ -48,16 +48,15 @@ Dave2D Teal:
   paper-listbox-background-color: "#0D0D0D"
   paper-card-background-color: var(--card-background-color)
   # Switches
-  switch-checked-button-color: "#5F9BEA"
-  switch-checked-track-color: "#404D64"
-  switch-unchecked-button-color: "#636466"
-  switch-unchecked-track-color: "#636466"
+  switch-checked-button-color: "#494440"
+  switch-checked-track-color: "#969593"
+  switch-unchecked-button-color: "#969593"
+  switch-unchecked-track-color: "#969593"
   # Toggles
   paper-toggle-button-checked-button-color: var(--switch-checked-button-color)
   paper-toggle-button-checked-bar-color: var(--switch-checked-track-color)
   paper-toggle-button-unchecked-button-color: var(--switch-unchecked-button-color)
   paper-toggle-button-unchecked-bar-color: var(--switch-unchecked-track-color)
-  validate-result: "#B0CAC7"
   # Table
   table-row-background-color: var(--primary-background-color)
   table-row-alternative-background-color: var(--secondary-background-color)
@@ -68,5 +67,3 @@ Dave2D Teal:
   mdc-theme-surface: var(--secondary-background-color)
   # HACS
   hacs-chip-background-color: var(--primary-color)
-  # Pre/Code
-  markdown-code-background-color: "#000000"
