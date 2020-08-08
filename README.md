@@ -1,6 +1,6 @@
 # Dave2D Teal - A very teal theme for Home Assistant.
 
-I stole Dave2D's color scheme, and turned it into a color scheme. (I did have to add and modify some colors.)
+I stole Dave2D's color scheme, and turned it into a Home Assistant theme. (I did have to add and modify some colors.)
 
 ## Screenshot:
 
